@@ -14,6 +14,7 @@
 ```yaml
 👤 Name: Felipe Zanluca;
 📚 Education: Graduated in Systems Analysis and Development from Uniavan University;
+📚 Postdegree: Full Stack Development from PUC RS
 📍 Living: Itajaí - SC, Brazil;
 💼 Work: Business Analyst at BRF S.A;
 📧 Contact: felipezanluca@hotmail.com.
