@@ -26,7 +26,7 @@
 <h3 align="center" > 
 📚 Languages - Frameworks - Tools - Libraries - Workspace 📚 </h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,hibernate,spring,idea,maven,atom,git,kafka,postman,mysql,mongodb,redis,github,windows,stackoverflow,docker&perline=8" 
+    <img src="https://skillicons.dev/icons?i=java,hibernate,spring,idea,maven,atom,git,kafka,postman,mysql,mongodb,redis,github,windows,stackoverflow,docker,js,angular&perline=9" 
 
  </p>
 
