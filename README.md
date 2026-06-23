@@ -3,7 +3,7 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=200&color=61cbff&size=35&center=true&vCenter=true&random=false&width=435&lines=Hello+There+!+%F0%9F%91%8B+;+I'm+Felipe+Zanluca!" alt="Felipe Zanluca" /></a>
     </h1>
-<h3 align="center">| Java Developer ☕|</h3>
+<h3 align="center">| Java Developer ☕| Python Data Analyst 🐍 |</h3>
 <br>
 <div align="center" style="display: block;">
     <img align="center" alt="GIF" src="Animação.gif" width="500" height="320" />
@@ -14,10 +14,9 @@
 ```yaml
 👤 Name: Felipe Zanluca;
 📚 Education: Graduated in Systems Analysis and Development from Uniavan University;
-📚 Postdegree: Full Stack Development from PUC RS
 📍 Living: Itajaí - SC, Brazil;
-💼 Work: Data Analyst at BRF S.A;
-📧 Contact: felipezanluca@hotmail.com.
+💼 Work: Data Analyst at MBRF S.A;
+📧 Contact: felipezanluca@gmail.com.
 
 📖 A lifelong learner, passionate about continuously seeking knowledge and improving skills.
 
@@ -26,8 +25,7 @@
 <h3 align="center" > 
 📚 Languages - Frameworks - Tools - Libraries - Workspace 📚 </h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,hibernate,spring,idea,maven,atom,git,kafka,postman,mysql,mongodb,redis,github,windows,stackoverflow,docker,js,angular,html,css&perline=10" 
-
+    <img src="https://skillicons.dev/icons?i=java,idea,spring,py,pycharm,mysql,git,github,azure,mongodb,hibernate,docker,linux,arch,windows,postman,jenkins,redis&perline=6" 
  </p>
 
 <!--
