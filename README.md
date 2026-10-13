@@ -15,8 +15,8 @@
 👤 Name: Felipe Zanluca;
 📚 Schooling: Degree in Systems Analysis and Development (Equivalent to an Associate's Degree) from Uniavan University;
 📍 Living: Itajaí - SC, Brazil;
-🔭 I’m currently looking for Java Opportunity;
 📧 Contact: felipezanluca@gmail.com.
+🔭 Work: I’m currently looking for Java Opportunity.
 
 📖 A lifelong learner, passionate about continuously seeking knowledge and improving skills.
 
