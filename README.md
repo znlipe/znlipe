@@ -13,9 +13,9 @@
 
 ```yaml
 👤 Name: Felipe Zanluca;
-📚 Education: Graduated in Systems Analysis and Development from Uniavan University;
+📚 Education: Degree in Systems Analysis and Development (Equivalent to an Associate's Degree) from Uniavan University;
 📍 Living: Itajaí - SC, Brazil;
-💼 Work: Data Analyst at MBRF S.A;
+🔭 I’m currently looking for Java Opportunity;
 📧 Contact: felipezanluca@gmail.com.
 
 📖 A lifelong learner, passionate about continuously seeking knowledge and improving skills.
@@ -29,6 +29,7 @@
  </p>
 
 <!--
+- 💼 Work: Data Analyst at MBRF S.A;
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
