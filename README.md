@@ -13,7 +13,7 @@
 
 ```yaml
 👤 Name: Felipe Zanluca;
-📚 Education: Degree in Systems Analysis and Development (Equivalent to an Associate's Degree) from Uniavan University;
+📚 Schooling: Degree in Systems Analysis and Development (Equivalent to an Associate's Degree) from Uniavan University;
 📍 Living: Itajaí - SC, Brazil;
 🔭 I’m currently looking for Java Opportunity;
 📧 Contact: felipezanluca@gmail.com.
